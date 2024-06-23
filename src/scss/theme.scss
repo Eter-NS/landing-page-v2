@@ -1,0 +1,11 @@
+.light {
+    color: theme('textColor.slate.900');
+    background-color: theme('backgroundColor.slate.50');
+    color-scheme: light;
+}
+
+.dark {
+    color: theme('textColor.slate.300');
+    background-color: theme('backgroundColor.slate.900');
+    color-scheme: dark;
+}
